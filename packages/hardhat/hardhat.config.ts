@@ -34,7 +34,7 @@ const config: HardhatUserConfig = {
       },
     ],
   },
-  defaultNetwork: "localhost",
+  defaultNetwork: "localhost", //or "sepolia"
   namedAccounts: {
     deployer: {
       // By default, it will take the first Hardhat account as the deployer
@@ -51,11 +51,12 @@ const config: HardhatUserConfig = {
       },
     },
     mainnet: {
-      url: `https://cloudflare-eth.com`,
+      url: `https://eth.drpc.org`, //works
+      //`https://cloudflare-eth.com`,
       accounts: [deployerPrivateKey],
     },
     sepolia: {
-      url: `https://rpc2.sepolia.org`,
+      url: `https://sepolia.drpc.org`, //`https://rpc2.sepolia.org`,
       accounts: [deployerPrivateKey],
     },
     arbitrum: {
