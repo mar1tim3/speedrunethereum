@@ -1,7 +1,6 @@
-# 🏗 Scaffold-ETH 2 Challenges
+# Speedrun Ethereum
 
-**Learn how to use 🏗 Scaffold-ETH 2 to create decentralized applications on Ethereum. 🚀**
-
+My local fork of the challenges. Check the other branches
 ---
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
