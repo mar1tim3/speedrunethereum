@@ -1,6 +1,6 @@
 # Speedrun Ethereum
 
-My local fork of the challenges. Check the other branches
+My fork of the BuidlGuidl challenges. Check out the "challenge*" branches
 
 ---
 
