@@ -2,6 +2,8 @@
 
 My fork of the BuidlGuidl challenges. Check out the "challenge*" branches
 
+https://speedrunethereum.com/builders/0xC09544f111BB15769110d72Ab82a8DC04DEFC8EA <= me
+
 ---
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
